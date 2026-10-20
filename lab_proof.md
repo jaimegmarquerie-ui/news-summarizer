@@ -1,7 +1,7 @@
 # Lab 19 – Proof of work
 
 Project: News Summarizer (OpenAI + Cohere with retries, fallback and cost tracking).
-Repository: <PEGA AQUÍ LA URL DE GITHUB>
+Repository: https://github.com/jaimegmarquerie-ui/news-summarizer
 
 ## 1. Workflow / configuration
 Files: `config.py`, `news_api.py`, `llm_providers.py`, `summarizer.py`, `main.py`, `test_summarizer.py`, `.env.example`, `.gitignore`, `requirements.txt`, `README.md`.
